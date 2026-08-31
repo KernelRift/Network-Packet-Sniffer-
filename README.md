@@ -129,6 +129,10 @@ This tool should only be used to capture traffic on networks and systems where y
 
 Do not use this application to intercept or analyze other people's private network traffic.
 
+## Other CODSOFT Project
+
+➡️ [Secure File Sharing Application](https://github.com/KernelRift/secure-file-sharing)
+
 ## Internship Task
 
 This project was developed as part of a Python internship task demonstrating packet capture, network communication analysis, protocol identification, and organized presentation of captured data.
