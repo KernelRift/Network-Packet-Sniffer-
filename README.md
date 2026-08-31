@@ -131,7 +131,7 @@ Do not use this application to intercept or analyze other people's private netwo
 
 ## Other CODSOFT Project
 
-➡️ [Secure File Sharing Application](https://github.com/KernelRift/secure-file-sharing)
+➡️ [Secure File Sharing Application](https://github.com/KernelRift/secure-file-sharing-web)
 
 ## Internship Task
 
